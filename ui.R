@@ -16,6 +16,7 @@ shinyUI(fluidPage(
     # Show a plot of the generated distributions
     mainPanel(
       plotOutput("bayesPlot"),
+      h4("Short documentation:"),
       p("The application presents the behaviour of apposteriori beta distribution which is conjugate to the binomal likelihood which represents data.
 "),
       p("There are two sliders to operate:"),
