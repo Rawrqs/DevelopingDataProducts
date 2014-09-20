@@ -69,5 +69,6 @@ The sources for my application are as follows:
 3. Example on how to calculate this in R from dlinzer's github
 
 Thank you for your attention
+*(seems like im doing everything fine but I can not remove the 6th blank slide)*
 
 --- .class #id
